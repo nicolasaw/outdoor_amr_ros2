@@ -1,0 +1,13 @@
+initialize_origin:
+	ros__parameters:
+		local_xy_origins:
+			swri:
+				latitude: 29.45196669
+				longitude: -98.61370577
+				altitude: 233.719
+				heading: 0.0
+			back_40:
+				latitude: 29.447507
+				longitude: -98.629367
+				altitude: 200.0
+				heading: 0.0
